@@ -2,9 +2,7 @@ import java.util.Scanner;
 
 public class Palomitas {
     public static void main(String[] args) {
-        String respuesta = getInput("Ingrese una palabra: ");
-        char[] array = convertirInput(respuesta);
-        printVerificacion(verificarPalabra(array));
+
     }
 
     public static String getInput(String message) {
