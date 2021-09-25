@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class paloma {
     public static void main(String[] args) {
-
+        //asd
     }
 
     public static String getInput(String message) {
